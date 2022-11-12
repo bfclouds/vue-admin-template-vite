@@ -1,0 +1,155 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3558824 */
+  src: url('./iconfont/iconfont.woff2?t=1667469156219') format('woff2'),
+       url('./iconfont/iconfont.woff?t=1667469156219') format('woff'),
+       url('./iconfont/iconfont.ttf?t=1667469156219') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-quanping:before {
+  content: "\e602";
+}
+
+.icon-keshihuapingtaiicon_shurukuang:before {
+  content: "\e6f0";
+}
+
+.icon-button:before {
+  content: "\e648";
+}
+
+.icon-zhuangxiu:before {
+  content: "\e616";
+}
+
+.icon-chacha:before {
+  content: "\e658";
+}
+
+.icon-shalou:before {
+  content: "\e61a";
+}
+
+.icon-tianjia1:before {
+  content: "\e601";
+}
+
+.icon-bianji:before {
+  content: "\e639";
+}
+
+.icon-wode:before {
+  content: "\e75e";
+}
+
+.icon-category:before {
+  content: "\e627";
+}
+
+.icon-guanliyuan:before {
+  content: "\e696";
+}
+
+.icon-xiaoxi:before {
+  content: "\e86f";
+}
+
+.icon-icon_fabu:before {
+  content: "\eb88";
+}
+
+.icon-tubiao-zhuzhuangtu:before {
+  content: "\eb96";
+}
+
+.icon-wenhao-:before {
+  content: "\e718";
+}
+
+.icon-jurassic_clock:before {
+  content: "\e698";
+}
+
+.icon-kuaijiehuifuguanli:before {
+  content: "\e631";
+}
+
+.icon-close:before {
+  content: "\e644";
+}
+
+.icon-iframetianjia:before {
+  content: "\ec7d";
+}
+
+.icon-tianjia:before {
+  content: "\e612";
+}
+
+.icon-yonghuguanli:before {
+  content: "\e667";
+}
+
+.icon-icon-user-light:before {
+  content: "\e60d";
+}
+
+.icon-shujukeshihua:before {
+  content: "\e600";
+}
+
+.icon-a-24Apeizhi:before {
+  content: "\e686";
+}
+
+.icon-gongju:before {
+  content: "\e607";
+}
+
+.icon-home:before {
+  content: "\e7c6";
+}
+
+.icon-setting:before {
+  content: "\e630";
+}
+
+.icon-qita:before {
+  content: "\e662";
+}
+
+.icon-daimashili:before {
+  content: "\e62c";
+}
+
+.icon-zhankai:before {
+  content: "\e7d3";
+}
+
+.icon-pie-chart:before {
+  content: "\e615";
+}
+
+.icon-weixin:before {
+  content: "\e609";
+}
+
+.icon-alipay:before {
+  content: "\e618";
+}
+
+.icon-github-fill:before {
+  content: "\e885";
+}
+
+.icon-google-circle-fill:before {
+  content: "\e887";
+}
+

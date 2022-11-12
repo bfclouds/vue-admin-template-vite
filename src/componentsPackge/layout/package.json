@@ -1,0 +1,9 @@
+{
+  "name": "layout",
+  "description": "布局",
+  "version": "0.0.1",
+  "icon": "icon-keshihuapingtaiicon_shurukuang",
+  "children": [],
+  "uiSchema": {},
+  "formSchema": []
+}

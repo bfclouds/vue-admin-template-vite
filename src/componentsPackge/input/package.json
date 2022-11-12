@@ -1,0 +1,36 @@
+{
+  "name": "input",
+  "description": "输入框",
+  "version": "0.0.1",
+  "icon": "icon-button",
+  "children": [],
+  "uiSchema": {},
+  "formSchema": [{
+    "type": "number",
+    "label": "上外边距",
+    "key": "marginTop",
+    "value": 0,
+    "unit": "px"
+  },
+  {
+    "type": "number",
+    "label": "右外边距",
+    "key": "marginRight",
+    "value": 0,
+    "unit": "px"
+  },
+  {
+    "type": "number",
+    "label": "下外边距",
+    "key": "marginBottom",
+    "value": 0,
+    "unit": "px"
+  },
+  {
+    "type": "number",
+    "label": "左外边距",
+    "key": "marginLeft",
+    "value": 0,
+    "unit": "px"
+  }]
+}

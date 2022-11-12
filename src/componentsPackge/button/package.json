@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "description": "按钮",
+  "version": "0.0.1",
+  "icon": "icon-button",
+  "children": [],
+  "uiSchema": {},
+  "formSchema": [{
+    "type": "number",
+    "label": "外边距",
+    "key": "margin",
+    "value": 0,
+    "unit": "px"
+  }]
+}
